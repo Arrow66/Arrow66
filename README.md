@@ -1,6 +1,6 @@
 # Hi there, I'm Arjun! 👋
 
-![Arrow66's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arrow66&show_icons=true&theme=tokyonight)
+![Arrow66's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arrow66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ## I'm a Developer, and Lifelong Learner!
 
